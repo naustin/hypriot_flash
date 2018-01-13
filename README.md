@@ -1,4 +1,8 @@
 
+Just execute Run.  It already has Flash parameters preconfigured.
+
+ `/Linux/Run`
+
 # flash
 
 [![CircleCI](https://circleci.com/gh/hypriot/flash.svg?style=svg)](https://circleci.com/gh/hypriot/flash)
